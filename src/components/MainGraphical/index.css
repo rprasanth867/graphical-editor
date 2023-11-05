@@ -1,0 +1,10 @@
+.main-graphical {
+  width: 800px;
+  height: 800px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
